@@ -1,0 +1,13 @@
+networks_folders:
+  - "data/results/lead_lag_networks/2021-10-05 17:10:32.322436"
+results_folder : "data/results/deepNF/"
+batch_size : 32
+lr : 0.0005
+num_epochs : 1000
+input_dim : 100
+M : 2
+dims : [50, 25, 40, 20]
+activation : "relu"
+dropout : 0.2
+seed : 666
+res_plot : 10

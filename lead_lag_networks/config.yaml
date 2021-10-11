@@ -1,0 +1,10 @@
+ranking_file : "data/complete_cmc.csv"
+results_folder : "data/results/lead_lag_networks/"
+prices_folder : "data/prices/"
+start_date : "2017-09-01"
+sampling_period : 3
+lookback : 700
+d : 3
+bins : 4
+max_lag : 24
+max_lag_to_save : 2
